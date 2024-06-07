@@ -1,0 +1,3 @@
+from biblioteca_pp import menu_principal_parcial
+
+menu_principal_parcial()
